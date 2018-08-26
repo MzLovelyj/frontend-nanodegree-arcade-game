@@ -25,7 +25,6 @@ https://mzlovelyj.github.io/frontend-nanodegree-arcade-game-master/
 * HTML
 * CSS
 * JavaScript
-* jQuery
 * Canvas
 
 ## OutsideCodeSource
