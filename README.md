@@ -19,7 +19,7 @@ https://mzlovelyj.github.io/frontend-nanodegree-arcade-game-master/
 
 ## Screenshot
 
-![screenshot](https://i.imgur.com/myqDBL1.png)
+![screenshot](https://i.imgur.com/nAsRPmq.png)
 
 ## TechnologiesUsed
 
