@@ -1,13 +1,13 @@
-## frontend-nanodegree-arcade-game
+## Frontend-Nanodegree-Arcade-Game
 
 ## Table of Contents
 
 * [How-To-Run](#how-to-run)
 * [Instructions](#instructions)
 * [Demo](#Demo)
-* [Screenshot](#Screenshot)
-* [TechnologiesUsed](#TechnologiesUsed)
-* [OutsideCodeSource](#OutsideCodeSource)
+* [Screenshot](#screenshot)
+* [Technologies-Used](#technologies-Used)
+* [Outside-Code-Source](#outside-Code-Source)
 
 ## How-To-Run
 
@@ -25,13 +25,13 @@ https://mzlovelyj.github.io/frontend-nanodegree-arcade-game-master/
 
 ![screenshot](https://i.imgur.com/nAsRPmq.png)
 
-## TechnologiesUsed
+## Technologies-Used
 
 * HTML
 * CSS
 * JavaScript
 * Canvas
 
-## OutsideCodeSource
+## Outside-Code-Source
 
 * I used this tutorial to help create the game: https://www.youtube.com/watch?v=7PHhRrjgTDA
