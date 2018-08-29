@@ -6,8 +6,8 @@
 * [Instructions](#instructions)
 * [Demo](#Demo)
 * [Screenshot](#screenshot)
-* [Technologies-Used](#technologies-Used)
-* [Outside-Code-Source](#outside-Code-Source)
+* [Technologies-Used](#technologies-used)
+* [Outside-Code-Source](#outside-code-source)
 
 ## How-To-Run
 
@@ -23,7 +23,7 @@ https://mzlovelyj.github.io/frontend-nanodegree-arcade-game-master/
 
 ## Screenshot
 
-![screenshot](https://i.imgur.com/nAsRPmq.png)
+![screenshot](https://i.imgur.com/Y8m5K98.png)
 
 ## Technologies-Used
 
