@@ -19,7 +19,7 @@ The Little person starts at the bottom of the screen. The person playing the gam
 
 ## Demo
 
-https://mzlovelyj.github.io/frontend-nanodegree-arcade-game-master/
+https://mzlovelyj.github.io/frontend-nanodegree-arcade-game/
 
 ## Screenshot
 
